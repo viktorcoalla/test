@@ -1,0 +1,11 @@
+Model Information:
+* title:	Patagonian Shelter
+* source:	https://sketchfab.com/3d-models/patagonian-shelter-1bb3f31a5a5242709e3a8e80efe2bf1d
+* author:	rarubilar (https://sketchfab.com/rarubilar)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Patagonian Shelter" (https://sketchfab.com/3d-models/patagonian-shelter-1bb3f31a5a5242709e3a8e80efe2bf1d) by rarubilar (https://sketchfab.com/rarubilar) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
